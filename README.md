@@ -6,7 +6,7 @@
 - 👀 I’m interested in **Artificial Intelligence, Data Science, and Backend Development**
 - 🌱 I’m currently learning **Python, Data Structures & Algorithms, Machine Learning, and NLP**
 - 💞️ I’m looking to collaborate on **AI-based projects, Flask apps, and Data Science solutions**
-- 📫 How to reach me **priyanshu.ranjan083@gmail.com** *(replace with your email)*
+- 📫 How to reach me **ranjanpriyanshu506@gmail.com** 
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love turning real-world problems into AI-powered solutions 🤖
 
