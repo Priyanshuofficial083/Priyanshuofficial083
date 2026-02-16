@@ -48,7 +48,7 @@ Trained ML models on 25K+ headlines to detect sarcasm with ~78% accuracy.
 
 ## 🌐 Let's Connect
 
-- LinkedIn: *(Add your link here)*
+- LinkedIn: https://www.linkedin.com/in/priyanshu-ranjan-b81a52349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - GitHub: https://github.com/Priyanshuofficial083
 
 ---
